@@ -5,7 +5,7 @@
 I have build a Food Wastage Reduction App, build in Android Studio.
 
 # DAAN APP LINK
-[DAAN-APP-LINK.txt](https://github.com/DevilHand420/DAAN-APP/files/11562103/DAAN-APP-LINK.txt)
+
 
 
 # Software used
