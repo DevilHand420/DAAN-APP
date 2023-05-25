@@ -4,9 +4,8 @@
 # Introduction
 I have build a Food Wastage Reduction App, build in Android Studio.
 
-# DAAN APP LINK
-
-
+# DAAN APP Link the working
+[DAAN-APP-LINK.txt](https://github.com/DevilHand420/DAAN-APP/files/11562113/DAAN-APP-LINK.txt)
 
 # Software used
 1. Android studio
@@ -41,5 +40,5 @@ I have build a Food Wastage Reduction App, build in Android Studio.
 
 
 # Tech Stack
-Client: Android Studio, 
+Client: Android Studio, Kotlin, Java.
 
