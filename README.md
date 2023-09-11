@@ -1,5 +1,5 @@
 # DAAN-APP
-### A food wastage reduction andrioid app build on aAndroid studio.
+### A food wastage reduction andrioid app build on Android studio.
 
 # Introduction
 I have build a Food Wastage Reduction App, build in Android Studio.
