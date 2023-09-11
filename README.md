@@ -43,3 +43,5 @@ In a world where food wastage is a significant concern, DAAN-APP serves as a sol
 ## Tech Stack
 - Client: Android Studio, Kotlin, Java
 - Backend: Firebase
+
+  Feel free to connect with me on LinkedIn: www.linkedin.com/in/dikshant-sharma-b41539232
