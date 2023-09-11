@@ -1,44 +1,43 @@
 # DAAN-APP
-### A food wastage reduction andrioid app build on Android studio.
 
-# Introduction
-I have build a Food Wastage Reduction App, build in Android Studio.
+## Introduction
+DAAN-APP is a mobile application developed using Android Studio with a focus on reducing food wastage. The app connects food donors with surplus food to individuals in need. By providing a platform for sharing excess food, DAAN-APP contributes to minimizing food waste and supporting those who require assistance.
 
-# DAAN APP Link the working
-[DAAN-APP-LINK.txt](https://github.com/DevilHand420/DAAN-APP/files/11562113/DAAN-APP-LINK.txt)
+## DAAN APP Link
+[DAAN-APP Working Demo](https://github.com/DevilHand420/DAAN-APP/files/11562113/DAAN-APP-LINK.txt)
 
-# Software used
-1. Android studio
+## Software Used
+- Android Studio
 
-# Screenshots
-## App Logo:
-![app logo](https://github.com/DevilHand420/DAAN-APP/assets/104151198/43a016b9-e220-4d66-8333-3894f7cf88ef)
+## Screenshots
 
-## Landing page:
-![landingpage](https://github.com/DevilHand420/DAAN-APP/assets/104151198/448da18f-bc63-4a8a-a473-e84c66bfd24e)
+### App Logo
+<img src="https://github.com/DevilHand420/DAAN-APP/assets/104151198/43a016b9-e220-4d66-8333-3894f7cf88ef" width="200">
 
-## Dashboard:
-![dashboard](https://github.com/DevilHand420/DAAN-APP/assets/104151198/b0385401-3ac8-4aa3-99f4-1fa87610f30b)
+### Landing Page
+<img src="https://github.com/DevilHand420/DAAN-APP/assets/104151198/448da18f-bc63-4a8a-a473-e84c66bfd24e" width="200">
 
-## About us:
-![about us](https://github.com/DevilHand420/DAAN-APP/assets/104151198/db930df3-df62-4438-ab38-51b19f39789e)
+### Dashboard
+<img src="https://github.com/DevilHand420/DAAN-APP/assets/104151198/b0385401-3ac8-4aa3-99f4-1fa87610f30b" width="200">
 
-## Login:
-![logup](https://github.com/DevilHand420/DAAN-APP/assets/104151198/205a4717-008e-428e-a073-0c390eaf887b)
+### About Us
+<img src="https://github.com/DevilHand420/DAAN-APP/assets/104151198/db930df3-df62-4438-ab38-51b19f39789e" width="200">
 
-## Food Map:
-![food map](https://github.com/DevilHand420/DAAN-APP/assets/104151198/c26db618-e66b-4f1f-ba93-0338fc3b069f)
+### Login
+<img src="https://github.com/DevilHand420/DAAN-APP/assets/104151198/205a4717-008e-428e-a073-0c390eaf887b" width="200">
 
-## Signup:
-![signup](https://github.com/DevilHand420/DAAN-APP/assets/104151198/51b807ef-dcbc-41cd-8054-e21a08bf49d9)
+### Food Map
+<img src="https://github.com/DevilHand420/DAAN-APP/assets/104151198/c26db618-e66b-4f1f-ba93-0338fc3b069f" width="200">
 
-## Splashscreen:
-![splashscreen](https://github.com/DevilHand420/DAAN-APP/assets/104151198/6f25db48-bf40-40ae-85cf-4dc0fa0b83b1)
+### Signup
+<img src="https://github.com/DevilHand420/DAAN-APP/assets/104151198/51b807ef-dcbc-41cd-8054-e21a08bf49d9" width="200">
 
-## History:
-![History](https://github.com/DevilHand420/DAAN-APP/assets/104151198/f188a4ba-042c-4c31-bf7c-bd410da94306)
+### Splashscreen
+<img src="https://github.com/DevilHand420/DAAN-APP/assets/104151198/6f25db48-bf40-40ae-85cf-4dc0fa0b83b1" width="200">
 
+### History
+<img src="https://github.com/DevilHand420/DAAN-APP/assets/104151198/f188a4ba-042c-4c31-bf7c-bd410da94306" width="200">
 
-# Tech Stack
-Client: Android Studio, Kotlin, Java.
-
+## Tech Stack
+- Client: Android Studio, Kotlin, Java
+- Backend: Firebase
