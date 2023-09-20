@@ -20,9 +20,10 @@ In a world where food wastage is a significant concern, DAAN-APP serves as a sol
 <img src="https://github.com/DevilHand420/DAAN-APP/assets/104151198/6f25db48-bf40-40ae-85cf-4dc0fa0b83b1" width="500">
 
 ### Landing Page
-<img src="https://github.com/DevilHand420/DAAN-APP/assets/104151198/448da18f-bc63-4a8a-a473-e84c66bfd24e" width="500">
+<img src="https://github.com/DevilHand420/DAAN-APP/assets/104151198/cd846a18-3940-40e7-bcd3-f9b2b2be0404" width="500">
 
-### Dashboard
+
+
 <img src="https://github.com/DevilHand420/DAAN-APP/assets/104151198/b0385401-3ac8-4aa3-99f4-1fa87610f30b" width="500">
 
 ### About Us
